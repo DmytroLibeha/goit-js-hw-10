@@ -6,21 +6,6 @@ input#datetime-picker {
   margin-right: 8px;
   margin-bottom: 32px;
 }
-/* button {
-  border-radius: 8px;
-  padding: 8px 16px;
-  width: 75px;
-  height: 40px;
-  background: #cfcfcf;
-  letter-spacing: 0.04em;
-  color: #989898;
-  border: none;
-  cursor: pointer;
-}
-button:hover {
-  background: #4e75ff;
-  color: #fff;
-} */
 
 button[data-start] {
   border-radius: 8px;
